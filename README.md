@@ -31,7 +31,7 @@ Contact: [parnaroychowdhury2020@gmail.com]
 
 
 ## License
-[Apache License 2.0 ©️ Parna Roy Chowdhury]
+[Apache License 2.0 ©️ Parna Roy Chowdhury](https://github.com/ParnaRoyChowdhury777/PCC-CS393-Python-IT-Workshop/blob/53dba04febdbc341b3ec0deb5283b3b450e509d8/LICENSE)
 
 
 ## 🙋‍♂️ Support
