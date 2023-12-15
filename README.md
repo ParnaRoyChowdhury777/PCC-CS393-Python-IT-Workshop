@@ -6,7 +6,7 @@
 ## How to Install
 
 1. Create a ```Python``` virtual environment. 
-2. Clone the repo ```git clone https://github.com/komal-agarwal5/PCC-CS393.git``` or download the repository.
+2. Clone the repo ```git clone https://github.com/ParnaRoyChowdhury777/PCC-CS393-Python-IT-Workshop.git``` or download the repository.
 3. Go to the cloned/downloaded directory ``` cd <folder_name> ```. 
 4. Go to the [Python website.](https://www.python.org/)
 5. Download the software.
