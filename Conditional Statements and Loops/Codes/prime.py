@@ -1,3 +1,5 @@
+# Write a program to print all prime numbers that fall between two numbers including both (accept two numbers from the user)
+
 a = int(input("Enter the starting number : "))
 b = int(input("Enter the ending number : "))
 for i in range(a,b+1,1):
