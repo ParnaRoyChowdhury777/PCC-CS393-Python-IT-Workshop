@@ -1,3 +1,8 @@
+# Write a Python function that prints out the first n rows of Pascal's triangle.
+
+#      Note: Pascal's triangle is an arithmetic and geometric figure first imagined by Blaise Pascal.
+#      Each number is the two numbers above it added together.
+
 def pascal(n):
 	c=1
 	for i in range(0,n):
