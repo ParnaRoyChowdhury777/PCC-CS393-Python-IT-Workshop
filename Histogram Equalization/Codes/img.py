@@ -1,3 +1,5 @@
+# Write a Python script to read a gray-scale image and display it's Histogram.
+
 import cv2
 import numpy as np
 from matplotlib import pyplot as plt

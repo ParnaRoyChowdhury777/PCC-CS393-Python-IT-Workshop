@@ -1,3 +1,6 @@
+# Write a Python script to enhance the image used in the other question using simple Histogram Equalization technique. Also display the equalized histogram along with the enhanced image.
+
+
 import cv2
 import numpy
 from matplotlib import pyplot as plt
