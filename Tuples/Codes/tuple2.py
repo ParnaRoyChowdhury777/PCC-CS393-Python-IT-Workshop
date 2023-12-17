@@ -1,3 +1,5 @@
+#Write a python program to Copy specific elements from one tuple to a new tuple
+
 tuple1=()
 index=[]
 tuple2=()

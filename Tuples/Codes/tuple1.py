@@ -1,3 +1,5 @@
+#Write a python program to Swap two tuples in Python.
+
 tuple1=()
 tuple2=()
 l1=list(tuple1)

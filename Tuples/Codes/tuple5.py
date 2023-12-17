@@ -1,3 +1,5 @@
+#Write a Python program to create a list of tuples from given list having number and its cube in each tuple. (e.g. (2,8),(3,27),....).
+
 l = list(map(int, input('Enter the numbers in the list(separated by spaces) : ').split()))
 res=[]
 print('The list input by the user is : ',l)

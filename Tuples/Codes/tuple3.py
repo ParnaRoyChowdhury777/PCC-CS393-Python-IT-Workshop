@@ -1,3 +1,5 @@
+# Write a python program to Add Tuple to List and vice – versa.
+
 mylist=list(map(int, input('Enter the elements in the list(separated by spaces) : ').split()))
 mytuple=tuple(map(int, input('Enter the elements in the tuple(separated by spaces) : ').split()))
 print('The list input by the user is:',mylist)
