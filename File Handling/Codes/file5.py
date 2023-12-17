@@ -1,3 +1,5 @@
+#Write a Python program to take a file name and a string pattern from the user. Now print the number of occurrence of the pattern string found in the file.
+
 name = input("Enter the name of the file : ")
 s = input("Enter the string : ")
 count = 0

@@ -1,3 +1,5 @@
+# Write a Python program to read first n lines of a file
+
 name = input("Enter the name of the file : ")
 try :
 	with open(name,"r") as file :
