@@ -1,3 +1,7 @@
+# Write a program to create two Dictionaries. Take a key from the 1st dictionary and find it in the 2nd dictionary. Display the corresponding value if found otherwise print appropriate message.
+
+# Also merge the two dictionaries and display the output.
+
 dict1={}
 dict2={}
 flag=0

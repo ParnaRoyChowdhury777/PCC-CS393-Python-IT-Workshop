@@ -1,3 +1,9 @@
+# Write a python program to create a dictionary and do the following:
+
+#      a)       Sort Dictionary by key.
+
+#      b)      Sort Dictionary by value.
+
 d = {}
 res = {}
 temp={}
