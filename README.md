@@ -1,6 +1,6 @@
 # PCC-CS393 (Python - IT Workshop)
 
-### This repository contains Python programs which I practised and notes I referred to in my third semester for the PCC-CS393 paper(IT WORKSHOP) as a part of the 2nd year B.Tech Curriculum
+#### This repository contains Python programs which I practised and notes I referred to in my third semester for the PCC-CS393 paper(IT WORKSHOP) as a part of the 2nd year B.Tech Curriculum
 <br>
 
 ## How to Install
