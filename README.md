@@ -18,7 +18,7 @@
 -  To run any python program, run ``` python filename.py```, where filename is the name of the file you are wanting to execute.
 - If the above command doesn't work, then run ``` python3 filename.py```, where again filename is the name of the file you are wanting to execute.
 
-## FAQ
+## ❓️ FAQ
 - How to stop the script? Ctrl+C (control+C for Mac) 
 - For any other problems, feel free to raise an issue.
 
